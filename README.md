@@ -1,4 +1,4 @@
-# AiC Mobile. Manuale applicativo.
+# AiC Mobile
 
 **Aurore: Paolo Casarini [paolo@casarini.org](mailto:paolo@casarini.org)**
 

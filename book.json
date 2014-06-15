@@ -1,0 +1,11 @@
+{
+    "name": "AiC Mobile",
+    "version": "0.1.0",
+    "description": "Questo libro vuole essere una breve guida all'utilizzo dell'applicazione AiC Mobile realizzata dall'Associazione Italiana Celiachia (AIC) per la fruizione in mobilità di alcuni dei suoi servizi ai celiaci.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/paolocasarini/aicmobile-handbook.git"
+    },
+    "author": "Paolo Casarini <paolo@casarini.org>",
+    "license": "copyright 2014"
+}
